@@ -60,7 +60,7 @@ public class symp extends patrec{
       return "minor cold";
     }
     else if(a == 3 && b == 3  && c == 3){
-      return "Adem";
+      return "Acute disseminated encephalomyelitis(Adem)";
     }
 	else if(a == 2 && b == 3  && c == 1){
       return "migrane";
