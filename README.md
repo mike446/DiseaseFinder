@@ -1,4 +1,4 @@
-# DiseaseFinderDisease Finder
+# DiseaseFinder
 Introduction
 Disease Finder is a Java-based tool designed to help users identify potential medical conditions based on symptoms they're experiencing. By inputting their symptoms, users can receive suggestions on what their condition might be, ranging from common colds to more severe diseases like COVID-19.
 
